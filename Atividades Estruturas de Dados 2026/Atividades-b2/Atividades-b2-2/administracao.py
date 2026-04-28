@@ -1,7 +1,7 @@
 ''' 
 *---------------------------------------------------------* 
 *              Fatec São Caetano do Sul                   * 
-*                   Atividade B2-1                        * 
+*                   Atividade B2-2                        * 
 *    Autor: Geovanna Alves Saccoccio                      * 
 *    Objetivo:Desenvolver uma aplicação de servidor de    *
 *   impressão entre dois grupos, administrador e aluno.   * 
